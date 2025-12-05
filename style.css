@@ -1,0 +1,35 @@
+body{
+    width: 100%;
+    height: 100vh;
+}
+.mainsection-fluid{
+    border-left: 20px solid gray;
+    border-right: 20px solid gray;
+}
+
+.container-fluid{
+    border: 2px solid  red;
+    width: 100%;
+ padding: none;
+   
+}
+.row{
+    padding: none;
+}
+.box1{
+    padding: none;
+   
+}
+.box2{
+ border: 2px solid black;
+
+}
+.img-fluid{
+  
+    margin-left: -12px;
+}
+hr{
+    height: 3px;
+    background-color: black;
+    width: 85%;
+}
