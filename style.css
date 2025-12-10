@@ -152,6 +152,13 @@ font-size: 20px;
     margin-top: 0;
     margin-bottom: 30px;
 }
+.lawmain{
+    border-left: 2px solid #bababa;
+    border-right: 2px solid #bababa;
+}
+.MAIN{
+    border-bottom: 2px solid #bababa;
+}
 .law1 h1{
     font-size: 30px;
 }
@@ -175,4 +182,251 @@ font-size: 20px;
     margin-left: 40px;
     margin-top: 0;
     margin-bottom: 30px;
+}
+.case h1{
+    font-size: 27px;
+}
+.case span{
+    color: #bb0406;
+}
+.case p{
+    font-size: 14px;
+}
+.case hr{
+    margin-top: -5px;
+      width: 85%;
+    height: 2px;
+    border: none;
+    background-color:black;
+   
+    margin-bottom: 0;
+}
+.case button{
+    background-color: #bb0406;
+    color: white;
+    border: none;
+    box-shadow: 4px 4px 10px black;
+    margin-left: 40px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.certificate h1{
+    font-size: 27px;
+}
+.certificate span{
+    color: #bb0406;
+}
+.certificate p{
+    font-size: 17px;
+    line-height: 20px;
+}
+.certificate hr{
+    margin-top: -5px;
+      width: 50%;
+    height: 2px;
+    border: none;
+    background-color:black;
+   margin-left: auto;
+   margin-right: auto;
+    margin-bottom: 0;
+}
+.certificate button{
+    background-color: #bb0406;
+    color: white;
+    border: none;
+    box-shadow: 4px 4px 10px black;
+    margin-left: 150px;
+  
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.rightdiv h1{
+    font-size: clamp(15px,3vw,30px);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.rightdiv span{
+    color: #BB0406;
+}
+
+.bigbutton{
+    height: 80px;
+
+}
+
+
+.bigbtnimg img{
+    width:100% ;
+}
+
+.duibtn{
+    background-color: gray;
+}
+.dui1 h1{
+    font-size: clamp(20px,3vw,20px);
+    color: white;
+}
+.dui2{
+    padding-top: 20px;
+    padding-right: 10px;
+}
+.dui2 p{
+    font-size: clamp(15px,3vw,18px);
+    color: white;
+
+}
+.redimg{
+    margin-left: 5px;
+    margin-top: 7px;
+    height: 15px;
+}
+
+.shadowimg{
+    width: 100%;
+      margin-top:-15px;
+}
+.midlediv h1{
+ font-size: 30px;
+}
+.midlediv span{
+    color: #bb0406;
+}
+.menudiv{
+   
+    text-align: end;
+    margin-top: 70px;
+}
+.menudiv h1{
+    font-size: 25px;
+    color: #9e9b9b;
+    line-height: 40px;
+}
+
+.secondend h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.clientdiv{
+  
+    padding-bottom: 0;
+    margin-bottom: 0;
+    height: 30%;
+  
+}
+.clientdiv h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.clientdiv span{
+    color: #bb0406;
+    font-family: 'Times New Roman', Times, serif;
+}
+.clientdiv p{
+    font-size: 20px;
+    font-weight: 450;
+   
+}
+.clientdiv hr{
+    height: 2px;
+    border: none;
+    background-color: #303030;
+    margin-bottom: 0;
+    
+}
+.clientdiv button{
+    background-color: #bb0406;
+    color: white;
+    border: none;
+    box-shadow: 4px 4px 10px black;
+    margin-left: 100px;
+  margin-top: 0;
+  
+    
+}
+.loaddiv{
+    margin-top: 0;
+}
+.loaddiv  h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.loaddiv  span{
+    color: #bb0406;
+    font-family: 'Times New Roman', Times, serif;
+}
+.loaddiv  p{
+    font-size: 20px;
+    font-weight: 450;
+   
+}
+.loaddiv hr{
+    height: 2px;
+    border: none;
+    background-color: #303030;
+    margin-bottom: 0;
+    
+}
+.loaddiv button{
+    background-color: #bb0406;
+    color: white;
+    border: none;
+    box-shadow: 4px 4px 10px black;
+    margin-left: 100px;
+  margin-top: 0;
+ 
+    
+}
+.contactdiv  h1{
+  
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.contactdiv  span{
+    color: #bb0406;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contactdiv  p{
+    font-size: 20px;
+    font-weight: 450;
+   
+}
+.contactdiv hr{
+    height: 2px;
+    border: none;
+    background-color: #303030;
+    margin-bottom: 0;
+    
+}
+.contactdiv button{
+    background-color: #bb0406;
+    color: white;
+    border: none;
+    box-shadow: 4px 4px 10px black;
+    margin-left: 100px;
+  margin-top: 0;
+ 
+    
+}
+.leftend2{
+    border: 2px solid black;
+}
+.leftend2 h1{
+font-size: 35px;
+margin-bottom: 0;
+}
+.leftend2 hr{
+    height: 2px;
+    border: none;
+    margin-top: 0;
+    margin-bottom: o;
+    background-color: #3b3b3b;
+}
+.lastshadow img{
+    width: 100%;
+    margin-top: -15px;
 }
