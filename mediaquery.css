@@ -1,2 +1,495 @@
+@media (max-width:1016px){
+    .container h3{
+    font-size: 19px;
+}
+.container hr{
+    width: 100%;
+}
+.Question h2{
+    font-size: 30px;
+    margin-left: -5px;
+}
+.name{
+   
+    height: 30px;
+}
+ .mybutton{
+    font-size: 17px;
+    margin-bottom: 10px;
+ }
+ .firstpara{
+    font-size:15px ;
+}
+.secondpara{
+    font-size: 15px;
+}
+.bordbutton hr{
+    margin-left: 110px;
+}
+.bordbutton button{
+    margin-left: 140px;
+}
+.law1 h1{
+    font-size: 25px;
+}
+.law1 hr{
+    width: 100%;
+    margin-bottom: 0;
+}
+.law1 button{
+    font-size: 15px;
+   margin-top: 0;
+    margin-left: 30px;
+}
+.case h1{
+    font-size: 25px;
+}
+.case p{
+    font-size: 13px;
+}
+.case button{
+    margin-left: 30px;
+}
+.certificate button{
+    margin-left: 110px;
+}
+}
+ @media (max-width:1000px){
+.container h4{
+    font-size: 20px;
+}
+.container hr{
+    width: 90%;
+}
+.container h1{
+    font-size: 45px;
+}
+ .firstpara{
+    font-size:13px ;
+}
+.secondpara{
+    font-size: 13px;
+}
+.law1 hr{
+  
+    margin-bottom: -1px;
+}
 
+
+ }  
+  @media (max-width:997px){
+    .container hr{
+    width: 35%;
+}
+.clientdiv hr{
+    width: 95%;
+}
+.container h4{
+    font-size: 25px;
+}
+
+.container h1{
+    font-size: 50px;
+
+}
+.container h3{
+    font-size: 20px;
+}
+ .firstpara{
+    font-size:16px ;
+}
+.secondpara{
+    font-size: 16px;
+}
+
+.bordbutton button{
+    margin-left: 210px;
+}
+.law1 h1{
+    font-size: 25px;
+}
+.law1 hr{
+    width: 100%;
+    margin-bottom: -1px;
+}
+.law1 button{
+    font-size: 15px;
+   margin-top: 0;
+    margin-left: 100px;
+}
+.case h1{
+    font-size: 25px;
+}
+.case p{
+    font-size: 16px;
+}
+.case button{
+    margin-left: 100px;
+}
+.certificate hr{
+    width: 30%;
+    margin-left: 80px;
+}
+.certificate button{
+    margin-left: 190px;
+}
+
+}
+@media(max-width:720px){
+      .container hr{
+    width: 35%;
+}
+.lawmain{
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+}
+@media(max-width:766px){
+       .container hr{
+    width: 45%;
+}
+.certificate button{
+    margin-left: 150px;
+}
+.menudiv{
+    margin-left: 35px;
+}
+}
+ @media(max-width:580px){
+    .img2{
+   display: none;
+  }
+}
+   @media(max-width:560px){
+       .container hr{
+    width: 65%;
+}
+.certificate hr{
+    width: 40%;
+    margin-left: 80px;
+}
+
+}
+   @media(max-width:527px){
+.mypara{
+    font-size: 14px;
+}
+ .mybutton{
+    height: 30px;
+ 
+ }
+   }
+ 
+  @media(max-width:490px){
+       .container hr{
+    width: 75%;
+}
+.mypara{
+    font-size: 12px;
+}
+ .mybutton{
+    height: 30px;
     
+    font-size: 13px;
+ 
+ }
+.certificate hr{
+    width: 50%;
+    margin-left: 90px;
+}
+}
+  @media(max-width:444px){
+       .container hr{
+    width: 87%;
+}
+ .mybutton{
+    font-size: 15px;
+ }
+ .chargheading{
+    font-size: 25px;
+}
+.chargheading2{
+    font-size: 18px;
+    color: #bb0406;
+}
+.bordbutton button{
+    margin-left: 170px;
+}
+.law1 button{
+    margin-left: 60px;
+}
+.case button{
+    margin-left: 60px;
+}
+
+}
+  @media(max-width:434px){
+    .secondend h1{
+    font-size: 25px;
+
+    }
+  
+    .Question h2{
+        font-size: 25px;
+    }
+  }
+  @media(max-width:420px){
+       .container hr{
+    width: 90%;
+}
+.certificate hr{
+    width: 55%;
+    margin-left: 100px;
+}
+}
+  @media(max-width:406px){
+ .mybutton{
+    font-size: 14px;
+ }
+  .about h3{
+        font-size: 18px;
+    }
+    .about span{
+    font-size: 32px;
+   }
+  }
+    @media(max-width:390px){
+ .mybutton{
+    font-size: 12px;
+ }
+  .about h3{
+        font-size: 16px;
+    }
+    .about span{
+    font-size: 24px;
+   }
+   .textsection p{
+    font-size: 10px;
+    margin-top: 0
+   }
+   .name{
+    gap: 3px;
+    margin-top: 0;
+    height: 25px;
+   }
+    .textarea ::placeholder{
+margin-top: -10px;
+    }
+ .clientdiv h1{
+    font-size: 25px;
+ }
+ .clientdiv p{
+    font-size: 15px;
+ }
+ .loaddiv  h1{
+    font-size: 25px;
+ }
+ .loaddiv p{
+    font-size: 15px;
+ }
+ .contactdiv  h1{
+    font-size: 25px;
+ }
+ .contactdiv p{
+    font-size: 15px;
+ }
+ .leftend2 h1{
+    font-size: 25px;
+ }
+ .certificate hr{
+    width: 60%;
+    margin-left: 110px;
+}
+ .bulletimg{
+    margin-left: 5px;
+    height: 10px;
+}
+.container h4{
+    font-size: 20px;
+}
+
+.container h1{
+    font-size: 40px;
+
+}
+.container h3{
+    font-size: 17px;
+}
+ .firstpara{
+    font-size:13px ;
+}
+.secondpara{
+    font-size: 13px;
+}
+.bordbutton button{
+    margin-left: 150px;
+}
+.law1 button{
+    margin-left: 40px;
+}
+.case p{
+    font-size: 13px;
+}
+.case button{
+    margin-left: 30px;
+}
+
+.certificate button{
+    margin-left: 170px;
+}
+    }
+       @media(max-width:372px){
+        .secondend h1{
+            font-size: 22px;
+        }
+       }
+     @media(max-width:367px){
+       
+       .midlediv h1{
+ font-size: 20px;
+} 
+    .Question h2{
+        font-size: 22px;
+    }
+   
+    .mypara p{
+        font-size: 15px;
+    }
+    .bordbutton button{
+    margin-left: 140px;
+}
+.law1 button{
+    margin-left: 30px;
+}
+.case hr{
+    width: 100%;
+}
+.case button{
+    margin-left: 40px;
+}
+.certificate hr{
+    margin-left: 100px;
+}
+.certificate button{
+    margin-left: 140px;
+}
+.secondend h1{
+    font-size: 20px;
+}
+     }
+     @media(max-width:325px){
+        .container h4{
+    font-size: 17px;
+}
+
+.container h1{
+    font-size: 35px;
+
+}
+.container h3{
+    font-size: 15px;
+}
+ .Question {
+    height: 30px;
+    width: 35%;
+ }
+ .Question h2{
+        font-size: 15px;
+        margin-top: 5px;
+    }
+    .about h3{
+        font-size: 13px;
+    }
+    .about span{
+    font-size: 19px;
+   }
+   /* .textsection p{
+    font-size: 10px;
+    margin-top: 0
+   } */
+     .mypara p{
+        font-size: 13px;
+    }
+     .mybutton{
+        margin-left: -12px;
+     }
+     .chargheading{
+    font-size: 20px;
+}
+   .chargheading2{
+    font-size: 15px;
+}
+.firstpara{
+    font-size:12px ;
+}
+.secondpara{
+    font-size: 12px;
+}
+.bordbutton hr{
+    width: 65%;
+    margin-left: 70px;
+    margin-bottom: -3px;
+}
+.bordbutton button{
+    margin-left: 120px;
+    font-size: 13px;
+}
+
+.law1 h1{
+    font-size: 20px;
+}
+.law1 p{
+    font-size: 12px;
+}
+.law1 hr{
+    margin-bottom: -3px;
+}
+.law1 button{
+    margin-left: 20px;
+    font-size: 13px;
+}
+.case h1{
+    font-size: 20px;
+}
+  .case p{
+    font-size: 10px;
+}
+.case hr{
+    width: 90%;
+    margin-bottom: -3px;
+}
+.case button{
+    font-size: 13px;
+    margin-left: 20px;
+}
+.certificate h1{
+    font-size: 20px;
+}
+.certificate p{
+    font-size: 13px;
+}
+.certificate hr{
+    width: 70%;
+    margin-left: 50px;
+    margin-bottom: -3px;
+}
+.certificate button{
+    margin-left: 90px;
+    font-size: 13px;
+}
+.secondend h1{
+    font-size: 20px;
+}
+.rightdiv h1{
+    font-size: 20px;
+}
+.shadowimg{
+    margin-top: -19px;
+}
+.menudiv{
+    margin-left: 20px;
+}
+.menudiv h1{
+    font-size: 18px;
+}
+     }
